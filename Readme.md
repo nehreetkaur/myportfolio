@@ -19,7 +19,7 @@ as well.
 
 [GIT_HUB-REPOSITORY](#GIT_HUB-REPOSITORY)
 
-[Heroku-Deployed-Link](#GIT_HUB-Deployed-Link)
+[GIT-HUB Deployed Link](#GIT_HUB-Deployed-Link)
 
 
  
@@ -48,7 +48,7 @@ HTML
 
 
 # GIT_HUB-REPOSITORY
-[GIT-HUB]()
+[GIT-HUB](https://github.com/nehreetkaur/myportfolio)
 
 # Heroku-Deployed-Link
-[Heroku]()
+[GIT-HUB Deployed Link]()
