@@ -6,7 +6,7 @@ my collection of projects. Created this website in HTML,
 CSS and Javascript. Also, added me social media
 links . Please feel free to connect with me on LinkedIn
 and stop by  my **Github** and look at my other projects
-as well.
+as well.Also, Used Typed Min javascript as well.
 
 # TABLE OF CONTENTS
 
@@ -45,6 +45,8 @@ HTML
 [MDN-Documentation](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 [Colors](https://coolors.co/palettes/trending)
+
+[Typed-Min-Js](https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.11/typed.min.js)
 
 
 # GIT_HUB-REPOSITORY
